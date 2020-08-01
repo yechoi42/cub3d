@@ -9,7 +9,7 @@ $ make
 $ ./cub3d ./maps/basic.cub
 ```
 
-![스크린샷 2020-08-01 오후 9.50.53](/Users/yechoi/Desktop/스크린샷 2020-08-01 오후 9.50.53.png)
+<img width="960" alt="스크린샷 2020-08-01 오후 9 50 53" src="https://user-images.githubusercontent.com/61399588/89102388-aa1ac580-d443-11ea-836b-a34e861e9da2.png">
 
 - textured wall
 - sprite
@@ -24,7 +24,7 @@ $ make bonus
 $ ./cub3d ./maps/pengsoo.cub
 ```
 
-![스크린샷 2020-08-01 오후 9.58.05](/Users/yechoi/Desktop/스크린샷 2020-08-01 오후 9.58.05.png)
+<img width="955" alt="스크린샷 2020-08-01 오후 10 09 59" src="https://user-images.githubusercontent.com/61399588/89102403-c454a380-d443-11ea-891a-e42ca337690a.png">
 
 - minimap
 - lifebar
