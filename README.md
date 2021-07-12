@@ -1,6 +1,6 @@
 # cub3d
 
-my first raycasting engine 
+Wolfenstein-like game run on raycasting engine 
 
 ## basic mode
 
